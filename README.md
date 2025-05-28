@@ -75,10 +75,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/steffany-cruz/steffany-cruz/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Contact me</h2>
 
 ###
